@@ -80,9 +80,9 @@ _   _  ____  _   ___     ____  __  ____  _    _  _____
 
             C  O  P  Y  R  I  G  H  T
 [+]═════════════════════════════════[+]
-[•] AUTHOR   : SAHARIYAN KHAN       [•]
+[•] AUTHOR   : Ayan Mallik      [•]
 [•] GITHUB   : MrcriminalS3UX/Ayan  [•]
-[•] WHATSAPP : +8801881298337       [•]
+[•] WHATSAPP : +8801318133859       [•]
 [•] NOTE     : \033[1;92mMOBILE DATA ONLY \033[1;97m    [•]
 [+]═════════════════════════════════[+]  """)
 
